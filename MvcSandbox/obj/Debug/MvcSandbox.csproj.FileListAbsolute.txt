@@ -1,0 +1,5 @@
+c:\users\phil\documents\visual studio 2010\Projects\MvcSandbox\MvcSandbox\bin\MvcSandbox.dll
+c:\users\phil\documents\visual studio 2010\Projects\MvcSandbox\MvcSandbox\bin\MvcSandbox.pdb
+c:\users\phil\documents\visual studio 2010\Projects\MvcSandbox\MvcSandbox\obj\Debug\ResolveAssemblyReference.cache
+c:\users\phil\documents\visual studio 2010\Projects\MvcSandbox\MvcSandbox\obj\Debug\MvcSandbox.dll
+c:\users\phil\documents\visual studio 2010\Projects\MvcSandbox\MvcSandbox\obj\Debug\MvcSandbox.pdb
